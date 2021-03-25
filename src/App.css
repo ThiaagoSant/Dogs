@@ -8,6 +8,7 @@ body {
   color: #333;
   font-family: var(--type-first);
   margin: 0;
+  padding-top: 4rem;
 }
 
 h1, h2, h3, h4, p {
@@ -19,6 +20,10 @@ ul,li {
   margin: 0px;
   padding: 0px;
 } 
+
+a {
+  text-decoration: none;
+}
 
 img {
   display: block;
